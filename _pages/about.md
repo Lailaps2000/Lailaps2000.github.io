@@ -1,13 +1,23 @@
 ---
 permalink: /
-title: "Lailaps2000"
+title: "莱拉普斯"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a master student at the [Department of Mathematics](https://math.sustech.edu.cn/index.html?lang=en) in [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), Shenzhen and I expect to graduate in June, 2024. My advisor is [Yifei Zhu](https://yifeizhu.github.io/).
 
-I am interested in algebraic topology, especially the computer-assisted computation of the homotopy groups of spheres. I have learned the chromatic homotopy theory and related topics as well as some knowledge of (mod 2) equvariant homotopy theory, motivic homotopy theory and algebraic K theory. I am currently interested in the topic of computing the unstable $v_2$-homotopy group of (odd) spheres. 
+这里是莱拉普斯的主页。
 
+博主是不许摸箱推人，拉拉人，也会D一些其他的偶像企划（大家我都喜欢哦），是河豚。平等的爱所有人，但有时对某些角色的爱会更加平等（比如现在对soyo女士和大祥老师的爱）。CP方面也很杂食，只要是能磕的我什么都愿意磕（bushi）。偶尔会出现在现地。10月28号i83在上海的fmt会参战。
+
+正在练习摁快门，当前设备是Z5+Z50 1.8 + Z24200。正计划购入一个移轴镜头（用来整活）和灯光系统（还没决定好是常亮灯还是闪光灯，闪光灯的学习成本略高，但常亮灯系统的对单兵作战来说重量会是个大问题，还在纠结）。如果有满意的照片（而且有时间在主页上把画廊做出来的话）会更新在主页上。但因为GitHub的仓库空间限制很可能要压图，也许以后会找个不会压图的平台做个外链（不过大概是很久以后的事情了）？
+
+返图流程大致如下：会在当天返2mp的小图（感谢Snapbridge），但挑的可能不会很细，手机实在不是一个良好的挑图工具。大图会用lightroom调好之后返，一般情况是2~3天，默认jpg。如果更慢的话十有八九是在忙学校的事。暂时不太会修脸型，因为自己对脸部形状不是很敏感…
+
+会在主页的博客部分更新一些日常向/攻略向的内容，比如游记，可以分享的近期工作，或者一些如何搭建环境等内容。后续计划逐渐完善主页。完善路线图可以参考博客部分当前置顶文章。
+
+目前数学系在读，正在进行代数拓扑方向的研究。如果有什么数学题不会欢迎问我（虽然高年级的那些分析学已经忘光了，但高中和本科低年级的课程大概还能应付）。
+
+QQ号是3089237979，欢迎扩列。
