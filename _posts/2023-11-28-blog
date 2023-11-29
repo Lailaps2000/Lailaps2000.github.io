@@ -10,7 +10,7 @@ tags:
 
 如标题所述，当天主要目标是参加MyGO的观影会。但到从深圳跑一趟广州不算很便宜，最后把行程安排的挺满的：先是卡着开门的点去尼康专卖店爽玩镜头；然后是去广州邦咖打卡[^2]，去完邦咖之后去观影地点，中间还能顺路插个动星。不过这也导致时间安排略特种兵。
 
-事实上，相比于到广州南，从深圳去广州的话到广州东会更方便一些，能省下不少市内交通时间。但车次很少是个问题。因为提前买了票我买到了时间比较合适的，正好能卡着正佳广场开门的时间到。这次去的主要目标是测试85mm f1.2这种规格的镜头在手动对焦的情况下表现如何。之前有考虑过买一个中一光学的85 1.2，其镜头成像素质尚可，但是只能手动对焦。因为在闲鱼上找不到价格合适的ai口版本，也没法用天工环转接成自动对焦。测试结果和用景深计算器计算出的结果类似：在24mp的全幅传感器中，进行大半身的拍摄，其景深也不超过2.5cm。而在更近的距离上，即使进行静物拍摄也极为困难[^3]，需要考虑使用脚架进行稳定。135 1.8其实也有类似的问题，但其景深相对更深，手动控制更加容易一些。用这两个镜头拍摄的样张如下，前（）张是85 1.2， 后（）张是135 1.8。均未进行任何后期处理[^4]。
+事实上，相比于到广州南，从深圳去广州的话到广州东会更方便一些，能省下不少市内交通时间。但车次很少是个问题。因为提前买了票我买到了时间比较合适的，正好能卡着正佳广场开门的时间到。这次去的主要目标是测试85mm f1.2这种规格的镜头在手动对焦的情况下表现如何。之前有考虑过买一个中一光学的85 1.2，其镜头成像素质尚可，但是只能手动对焦。因为在闲鱼上找不到价格合适的ai口版本，也没法用天工环转接成自动对焦。测试结果和用景深计算器计算出的结果类似：在24mp的全幅传感器中，进行大半身的拍摄，其景深也不超过2.5cm。而在更近的距离上，即使进行静物拍摄也极为困难[^3]，需要考虑使用脚架进行稳定。135 1.8其实也有类似的问题，但其景深相对更深，手动控制更加容易一些。用这两个镜头拍摄的样张如下，前3张是135 1.8， 后2张是85 1.2。均未进行任何后期处理[^4]。
 
 <head>
   <meta charset="utf-8" />
@@ -47,43 +47,28 @@ tags:
   <div class="swiper mySwiper">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8227.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8227.jpg?x-oss-process=image/resize,l_1920"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg?x-oss-process=image/resize,l_1920"/>
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8224.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8224.jpg?x-oss-process=image/resize,l_1920"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7652.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7652.jpg?x-oss-process=image/resize,l_1920"/>
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8218.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8218.jpg?x-oss-process=image/resize,l_1920"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7666.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7666.jpg?x-oss-process=image/resize,l_1920"/>
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8231.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8231.jpg?x-oss-process=image/resize,l_1920"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7654.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7654.jpg?x-oss-process=image/resize,l_1920"/>
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8289.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8289.jpg?x-oss-process=image/resize,l_1920"/>
-        </a>
-      </div>
-      <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8292.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8292.jpg?x-oss-process=image/resize,l_1920"/>
-        </a>
-      </div>
-      <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8380.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8380.jpg?x-oss-process=image/resize,l_1920"/>
-        </a>
-      </div>
-      <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8362.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8362.jpg?x-oss-process=image/resize,l_1920"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7674.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7674.jpg?x-oss-process=image/resize,l_1920"/>
         </a>
       </div>
     </div>
@@ -97,6 +82,7 @@ tags:
   <!-- Initialize Swiper -->
   <script>
     var swiper = new Swiper(".mySwiper", {
+      slidesPerView: "auto",
       loop: true,
       spaceBetween: 10,
       navigation: {
@@ -105,6 +91,7 @@ tags:
       },
     });
     var swiper = new Swiper(".mySwiper2", {
+      slidesPerView: "auto",
       loop: true,
       spaceBetween: 10,
       navigation: {
@@ -113,6 +100,25 @@ tags:
       },
     });
     var swiper = new Swiper(".mySwiper3", {
+      slidesPerView: "auto",
+      loop: true,
+      spaceBetween: 10,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+  var swiper = new Swiper(".mySwiper4", {
+      slidesPerView: "auto",
+      loop: true,
+      spaceBetween: 10,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+  var swiper = new Swiper(".mySwiper5", {
+      slidesPerView: "auto",
       loop: true,
       spaceBetween: 10,
       navigation: {
@@ -122,49 +128,24 @@ tags:
     });
   </script>
 
-除去对上述镜头的测试外，尼康店里其实还有一些老镜头可以转到z卡口上玩，比如蔡司的55 1.4，奥林巴斯的90 f2，徕卡的100 2.8这样的老镜头。样片也是在下面。老镜头和现代镜头比确实会多出一些光学上的缺陷，但如果要是能想办法利用一下这些特征也是有不低的可玩性的。
+除去对上述镜头的测试外，尼康店里其实还有一些老镜头可以转到z卡口上玩，比如蔡司的55 1.4，奥林巴斯的90 f2，徕卡的100 2.8这样的老镜头。样片在下面依次排列。老镜头和现代镜头比确实会多出一些光学上的缺陷，但如果要是能想办法利用一下这些特征也是有不低的可玩性的。
 
   <!-- Swiper -->
   <div class="swiper mySwiper2">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8227.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8227.jpg?x-oss-process=image/resize,l_1920"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7680.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7680.jpg?x-oss-process=image/resize,l_1920"/>
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8224.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8224.jpg?x-oss-process=image/resize,l_1920"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7695.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7695.jpg?x-oss-process=image/resize,l_1920"/>
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8218.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8218.jpg?x-oss-process=image/resize,l_1920"/>
-        </a>
-      </div>
-      <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8231.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8231.jpg?x-oss-process=image/resize,l_1920"/>
-        </a>
-      </div>
-      <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8289.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8289.jpg?x-oss-process=image/resize,l_1920"/>
-        </a>
-      </div>
-      <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8292.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8292.jpg?x-oss-process=image/resize,l_1920"/>
-        </a>
-      </div>
-      <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8380.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8380.jpg?x-oss-process=image/resize,l_1920"/>
-        </a>
-      </div>
-      <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8362.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8362.jpg?x-oss-process=image/resize,l_1920"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7705.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7705.jpg?x-oss-process=image/resize,l_1920"/>
         </a>
       </div>
     </div>
@@ -178,43 +159,18 @@ tags:
   <div class="swiper mySwiper3">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8227.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8227.jpg?x-oss-process=image/resize,l_1920"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7712.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7712.jpg?x-oss-process=image/resize,l_1920"/>
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8224.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8224.jpg?x-oss-process=image/resize,l_1920"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7719.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7719.jpg?x-oss-process=image/resize,l_1920"/>
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8218.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8218.jpg?x-oss-process=image/resize,l_1920"/>
-        </a>
-      </div>
-      <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8231.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8231.jpg?x-oss-process=image/resize,l_1920"/>
-        </a>
-      </div>
-      <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8289.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8289.jpg?x-oss-process=image/resize,l_1920"/>
-        </a>
-      </div>
-      <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8292.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8292.jpg?x-oss-process=image/resize,l_1920"/>
-        </a>
-      </div>
-      <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8380.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8380.jpg?x-oss-process=image/resize,l_1920"/>
-        </a>
-      </div>
-      <div class="swiper-slide">
-        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8362.jpg">
-          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8362.jpg?x-oss-process=image/resize,l_1920"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7723.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7723.jpg?x-oss-process=image/resize,l_1920"/>
         </a>
       </div>
     </div>
@@ -222,14 +178,87 @@ tags:
     <div class="swiper-button-prev"></div>
   </div>
 
-大概12点左右开始往邦咖移动。广州邦咖的位置略偏，甚至在百度地图上直接搜都搜不到得搜它所在的建筑物。
+大概12点左右开始往邦咖移动。广州邦咖的位置略偏，甚至在百度地图上直接搜都搜不到，得搜它所在的建筑物。场地整体面积和沪国邦咖差不多大，但因为几乎没有周边贩售和展示区（就一个柜子）显得还挺大的。邦咖的菜单是统一的，但是一些食物的做法上有一些差别，比如芭菲，不少水果被换掉了，顶部也有点不尽相同。由于预算原因，我就点了一杯R组的苏打水。当天店里人不少，看起来有一半之后是要去MyGO的观影会的。不过这边的服务员（尤其是前台）的态度都不是很友善，问怎么领邦毕业季的打卡周边也不好好回复……
 
+  <!-- Swiper -->
+  <div class="swiper mySwiper4">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7734.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7734.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7738.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7738.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7747.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7747.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7749.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7749.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7751.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7751.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7757.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7757.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7752-Pano.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7752-Pano.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
 
+从邦咖出去之后就开始往观影会的场地跑，但因为顺路，就还顺便去了一趟动星。当天不知道为什么动星人很多，差不多和10月电玩节的人流密度接近。去过之后大概理解为什么大家会把动星当小漫展了：出C的相当多，也有架灯阵的，密度甚至不低于商场展。当天还有罗森和深空之眼的联动，有瓜希酱作为一日店长出现。
+
+<!-- Swiper -->
+  <div class="swiper mySwiper4">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7761.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7761.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7763.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7763.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7767.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7767.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7773.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7773.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
+
+在去观影会之前还点了一杯春日饮，但
 
 
 [^1]: 发得晚是因为太摸了一直没时间处整理照片，现在才整理好。
 [^2]: 虽然前几天已经去过沪国邦咖了，而且实际体验广州邦咖确实差点，后文会细说。
 [^3]: 指手持拍摄十张里就一张焦点在我想要的地方上的……
 [^4]: 但当时忘了把机内滤镜关上了，但尼康的机内滤镜不会写到raw文件里所以曝光可能有点小问题。
-[^5]: 所以鞋厂的复古Z卡口镜头呢，除了40f2和28 2.8这两个
+[^5]: 所以除了40f2和28 2.8这两个镜头，鞋厂其他的的复古Z卡口镜头呢？
 
